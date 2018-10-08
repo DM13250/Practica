@@ -10,12 +10,3 @@ config.editorconfig
 README.md
 
 Creación de caracteristicas.html y modificación index.html con un menu
-
-#Version 1.0.2
-src/index.html
-src/caracteristicas.html
-src/orden.html
-config.editorconfig
-README.md
-
-Creación de caracteristicas.html y modificación index.html con un menu
